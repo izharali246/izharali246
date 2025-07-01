@@ -12,7 +12,7 @@ Aspiring Tier 1 SOC Analyst with a passion for defending systems, investigating 
 While pursuing my **Master’s in Information Technology (Networks & Information Security)** at CQ University, I gained real-world cybersecurity experience through internships and contract roles in Australia. This included:
 
 - Providing Tier-1 and Tier-2 IT support for enterprise and education environments  
-- Detecting and analyzing threats using Microsoft Sentinel, Defender, and Darktrace  
+- Detecting and analyzing threats using Microsoft Sentinel, Microsoft Defender for Endpoint (EDR), Fortinet, and Darktrace  
 - Managing email security, mobile devices, and cloud identity with tools like Mimecast and Intune  
 
 This blend of academic learning and practical implementation has helped me build a strong foundation for contributing effectively to SOC operations.
