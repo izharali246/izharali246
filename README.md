@@ -9,7 +9,7 @@ Aspiring Tier 1 SOC Analyst with a passion for defending systems, investigating 
 ---
 ## 🎓 Education & Experience
 
-While pursuing my **Master’s in Information Technology (Networks & Security)** at CQ University, I gained real-world cybersecurity experience through internships and contract roles in Australia. This included:
+While pursuing my **Master’s in Information Technology (Networks & Information Security)** at CQ University, I gained real-world cybersecurity experience through internships and contract roles in Australia. This included:
 
 - Providing Tier-1 and Tier-2 IT support for enterprise and education environments  
 - Detecting and analyzing threats using Microsoft Sentinel, Defender, and Darktrace  
