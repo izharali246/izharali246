@@ -2,20 +2,9 @@
 
 **SOC Analyst | Cybersecurity Enthusiast | Threat Hunter |  Log Analyst | Microsoft Sentinel | Email Threat Analyst**
 
-Welcome to my GitHub!
+Welcome!
 
 Aspiring Tier 1 SOC Analyst with a passion for defending systems, investigating threats, and making sense of noisy logs. I have hands-on experience in incident response, phishing analysis, SIEM monitoring, and endpoint security, gained through roles in both educational and enterprise environments. I’m currently focused on strengthening my expertise in leading security tools to tackle real-world cyber threats. Eager to join a team where I can apply and deepen my skills while helping defend against evolving threats.
-
----
-## 🎓 Education & Experience
-
-While pursuing my **Master’s in Information Technology (Networks & Information Security)** at CQ University, I gained real-world cybersecurity experience through internships and contract roles in Australia. This included:
-
-- Providing Tier-1 and Tier-2 IT support for enterprise and education environments  
-- Detecting and analyzing threats using Microsoft Sentinel, Microsoft Defender for Endpoint (EDR), Fortinet, and Darktrace  
-- Managing email security, mobile devices, and cloud identity with tools like Mimecast and Intune  
-
-This blend of academic learning and practical implementation has helped me build a strong foundation for contributing effectively to SOC operations.
 
 ---
 
