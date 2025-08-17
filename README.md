@@ -10,7 +10,7 @@ Aspiring Tier 1 SOC Analyst with a passion for defending systems, investigating 
 
 ## ⚙️ Tools & Technologies
 
-- **SIEM & Security Tools**: Microsoft Sentinel, Defender for Endpoint, Darktrace, Mimecast, PhishTool, Nessus  
+- **SIEM & Security Tools**: Splunk, Microsoft Sentinel, Defender for Endpoint, Darktrace, Mimecast, PhishTool, Nessus  
 - **Cloud & Identity**: Microsoft Intune, Azure AD (Entra ID), Office 365, SCCM  
 - **Networking**: TCP/IP, DNS, DHCP, VLANs, Cisco Switches, FortiGate Firewall  
 - **Virtualization & OS**: Windows Server, macOS, Linux (Ubuntu, Kali), Hyper-V, VirtualBox  
